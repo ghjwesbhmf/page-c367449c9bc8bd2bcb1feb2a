@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "668947ef3088ffbb90cb383d",
+  "owner": "ghjwesbhmf",
+  "repo": "page-c367449c9bc8bd2bcb1feb2a",
+  "title": "宇宙云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c367449c9bc8bd2bcb1feb2a",
+      "a": "宇宙云",
+      "b": "",
+      "entity": "宇宙云",
+      "brand": "宇宙云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "99e909f5b5fe2b3209c4ebdbac399cc46579c91ca0c1e38a060fa7f898ce66f1",
+      "content": {
+        "keyword1": "宇宙云",
+        "keyword2": "",
+        "primary_entity": "宇宙云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "宇宙云提供高速稳定的VPN加速与机场订阅服务，支持多端客户端一键下载导入，覆盖全球节点，轻松解锁流媒体并优化游戏延迟。欢迎访问宇宙云官网获取官方下载与使用指南。",
+          "AI_DESCRIPTION": "宇宙云提供高速稳定的VPN加速与机场订阅服务，支持多端客户端一键下载导入，覆盖全球节点，轻松解锁流媒体并优化游戏延迟。欢迎访问宇宙云官网获取官方下载与使用指南。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--purple:#6d28d9;--purple-dark:#5b21b6;--gray:#f3f4f6;--card:#ffffff;--text:#111827;--muted:#4b5563;--border:#e5e7eb;}*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:var(--gray);color:var(--text);font-size:16px;line-height:1.65}a{color:var(--purple);text-decoration:none}header{background:var(--purple-dark);color:#fff;padding:16px} .brand{font-weight:700;font-size:1.2rem}nav{display:flex;flex-wrap:wrap;gap:12px;margin-top:10px;font-size:.92rem}nav a{color:#fff}main{max-width:680px;margin:0 auto;padding:20px 16px 48px}h1{font-size:1.7rem;line-height:1.3;margin:0 0 14px;color:var(--purple-dark)}h2{font-size:1.32rem;margin:28px 0 12px;color:var(--purple-dark);border-bottom:2px solid var(--purple);padding-bottom:6px}h3{font-size:1.08rem;margin:16px 0 8px}p,ol,ul{margin:0 0 12px}ol,ul{padding-left:1.2rem}.cards{display:flex;flex-direction:column;gap:12px;margin:14px 0}.card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px 16px}.card.featured{border:2px solid var(--purple);background:#faf5ff}.price{font-size:1.35rem;font-weight:700;color:var(--purple)}.annual{display:block;font-size:.85rem;color:var(--muted);margin-top:4px}.clients{display:grid;grid-template-columns:1fr 1fr;gap:10px}details{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:10px 14px;margin:0 0 10px}summary{font-weight:600;color:var(--purple-dark)}.ad{background:#ede9fe;border-radius:10px;padding:14px;margin:22px 0}.muted{color:var(--muted);font-size:.92rem}footer{background:#1f2937;color:#d1d5db;padding:20px 16px;font-size:.85rem;text-align:center}footer a{color:#c4b5fd} .flink{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 14px;margin-top:10px}@media(max-width:520px){.clients{grid-template-columns:1fr}}</style><header><div class=\"brand\">宇宙云官网</div><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#clients\">客户端</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a></nav></header><main><h1>宇宙云官网：高速机场 VPN 与多端加速客户端</h1><section id=\"intro\"><h2>品牌简介</h2><p>宇宙云是面向个人与团队的网络加速服务，提供机场订阅与多端 VPN 客户端导入方案。我们以稳定线路、清晰套餐和可落地的操作说明为核心，帮助用户完成流媒体访问、游戏加速与跨境办公连接。</p><p>与把所有能力堆在单一 App 上不同，宇宙云把订阅作为统一入口：您在官网选定套餐后获取订阅地址，再按设备选择 Clash、Shadowrocket 等客户端导入即可。旗舰线路包含 IPLC 专线优化，适合对延迟更敏感的使用场景。</p><p class=\"muted\">本页为宇宙云官方网站信息入口，涵盖套餐对照、使用场景、客户端选择步骤与常见问题，便于您在下载前完成判断。</p></section><section id=\"plans\"><h2>套餐对照</h2><p>三档套餐按流量、同时在线设备与线路能力区分。年付可降低月均成本。请按实际设备数量与流媒体/游戏需求选择，避免超设备或流量不足。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><span class=\"annual\">按年付仅需 ¥150/年</span><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><span class=\"annual\">按年付仅需 ¥350/年</span><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><span class=\"annual\">按年付仅需 ¥850/年</span><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体观看</h3><p>需要稳定解锁时优先旗舰版或团队版。全节点原生解锁更适合长时间高清播放，减少区域限制带来的中断。基础版覆盖常见基础平台，适合轻度使用。</p><h3>游戏与实时对战</h3><p>对延迟敏感的游戏建议走 IPLC 专线。旗舰版针对游戏加速做了线路优化，适合需要更稳定往返时延的玩家；团队版则适合多设备同时在线的家庭或工作室。</p><h3>远程办公与资料访问</h3><p>跨境会议、代码托管与文献检索依赖连接稳定性。选择与设备数匹配的套餐后，在客户端中固定一条延迟较低的节点，避免频繁切换。</p><h3>出行与多设备共用</h3><p>手机、电脑、平板同时在线时，请核对套餐设备上限。团队版支持更多终端与定制路由，适合需要统一出口策略的小团队。</p></section><section id=\"clients\"><h2>客户端选择与操作说明</h2><p>宇宙云强调客户端选择而非绑定单一软件。订阅地址可在 Clash 系、Shadowrocket、Stash、NekoBox 等工具中重复导入。请只从您信任的应用商店或项目发布页获取客户端，再回到本站完成订阅导入。</p><div class=\"clients\"><article class=\"card\"><h3>Windows / macOS</h3><p>推荐 Clash Verge 或 Clash Meta。安装后添加订阅 URL，开启系统代理，按延迟排序节点。</p></article><article class=\"card\"><h3>iOS</h3><p>推荐 Shadowrocket 或 Stash。粘贴宇宙云订阅链接并更新，首次连接建议选择邻近区域节点。</p></article><article class=\"card\"><h3>Android</h3><p>推荐 Clash Meta for Android 或 NekoBox。支持一键导入订阅，可按规则分流国内直连与代理。</p></article><article class=\"card\"><h3>路由与其他</h3><p>OpenClash、PassWall 等可用于全家共享。团队版更适合多终端与定制路由。</p></article></div><h3>五步完成连接</h3><ol><li>在宇宙云官网选择套餐，进入用户中心复制订阅地址。</li><li>按设备下载对应客户端，完成安装与基础权限设置。</li><li>在客户端的订阅/配置页粘贴地址，执行更新以拉取节点。</li><li>选择延迟较低的线路；观看流媒体或游戏时优先旗舰专线。</li><li>连接异常时先更新订阅、更换节点，旗舰及以上可走优先工单。</li></ol><p class=\"muted\">官方下载指引仅提供选择逻辑与导入步骤，不在页面内嵌第三方安装包。请以客户端自身发布渠道为准。</p></section><section><h2>线路与使用建议</h2><p>节点覆盖亚洲、北美与欧洲主要出口。日常浏览可使用普通线路；高清流媒体与对战游戏建议 IPLC。流量按套餐月额度计算，用尽后需升级或等待重置，不在此页承诺无限流量。</p><p>同时在线设备以套餐上限为准：基础版 3 台、旗舰版 5 台、团队版 20 台。超限时请下线闲置终端或升级，以免出现频繁掉线。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>宇宙云和普通 VPN 客户端有什么关系？</summary><p>宇宙云提供的是机场订阅与节点服务。您仍需在各自系统安装 Clash、Shadowrocket 等客户端，把订阅地址导入后才能连接。官网重点帮助您选套餐、选客户端并完成导入。</p></details><details><summary>如何获取并更新订阅链接？</summary><p>完成套餐开通后，在用户中心复制订阅 URL，粘贴到客户端订阅栏并点击更新。节点变更后同样先更新订阅，再按延迟重新选择线路。</p></details><details><summary>三个套餐该怎么选？</summary><p>轻度浏览与基础流媒体选基础版；需要原生解锁、游戏专线与优先支持选旗舰版；多设备、高流量或需要定制路由选团队版。年付价格已在各卡片标明。</p></details><details><summary>支持哪些流媒体与游戏场景？</summary><p>基础版提供基础流媒体解锁；旗舰版与团队版强调全节点原生解锁，并含 IPLC 游戏加速优化。具体片源与游戏服仍受目标站点策略影响，连接后请以实际播放与延迟为准。</p></details><details><summary>设备超限或流量用完怎么办？</summary><p>先减少同时在线终端，或升级到更高档套餐。流量按月额度累计，用尽后无法继续走极速通道，需升级或等待下一计费周期重置。</p></details><details><summary>客户端下载是否必须使用指定软件？</summary><p>不是。宇宙云兼容主流订阅协议客户端。请按系统选择常用工具，并只从正规渠道安装。导入同一订阅即可在多设备间切换，只要不超过套餐设备数。</p></details></section><div class=\"ad\" id=\"ads\"><strong>官方提示</strong><p>请通过宇宙云官网核对套餐与导入步骤，避免来源不明的订阅与改装客户端。需要加速时，先完成客户端选择，再导入订阅。</p><p><a href=\"#plans\">查看套餐卡片</a> · <a href=\"#clients\">返回客户端说明</a></p></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer id=\"links\"><p>© 宇宙云 官方网站 · VPN 加速与机场订阅服务</p><p><a href=\"#\">站点地图</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#clients\">官方下载指引</a></p><div class=\"flink\"><span>友情链接</span><a href=\"#clients\">Clash 导入说明</a><a href=\"#clients\">iOS 客户端选择</a><a href=\"#scenes\">流媒体场景</a><a href=\"#plans\">套餐对照</a><a href=\"#faq\">订阅常见问题</a></div></footer>",
+          "hash": "78900504acbe04b22b40611a96098d0caa2655139d2bdba6c78fd9b2d68d2f29",
+          "seo": {
+            "title": "宇宙云官方网站 - VPN梯子网络加速器与机场订阅客户端下载",
+            "keywords": "宇宙云,宇宙云VPN,宇宙云机场,VPN梯子,网络加速,加速器,客户端下载,官网下载,Clash,Shadowrocket,机场订阅",
+            "description": "宇宙云提供高速稳定的VPN加速与机场订阅服务，支持多端客户端一键下载导入，覆盖全球节点，轻松解锁流媒体并优化游戏延迟。欢迎访问宇宙云官网获取官方下载与使用指南。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "haiqiang18.cn",
+    "host": "p-3123b87a78.haiqiang18.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "haiqiang18.cn",
+      "url": "https://haiqiang18.cn/",
+      "label": "涡轮社区",
+      "apex": "haiqiang18.cn",
+      "kind": null,
+      "identity": "utdypakiksjoz/page-d0287f2c8cf97c3d81495393"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "41cef9a423c1bc47c5b7508ac8c1e1efe84cd441a05964f24a7560cd84010992",
+    "sitemap.xml": "771e7fea78fe7b088b093f9b0f4e561f9537b8242a80932fe2e07393b26e2d94",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "20f6d152e562d5b3248fa49750b6be0442c97b4ce9a5e32c1392d95d7335c57d",
+    "robots.txt": "ebaf22d5191425d7957eba759bef28a1a27d979e7cfd2f5a8e2592931054c3c1",
+    "63744b91410b1fede44ff710a15fd1fa.txt": "6035672bb81f531090deeb36401dc1a8cfcabfdecb2c8c1fad2187ae6670b050"
+  },
+  "revision": "6a4cd34a8e67510a85478881782d6f787ee66b1275f6bd1ccd221f2d02ccdb65"
+}

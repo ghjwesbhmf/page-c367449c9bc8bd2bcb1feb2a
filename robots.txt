@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-3123b87a78.haiqiang18.cn/sitemap.xml
